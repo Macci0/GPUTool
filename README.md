@@ -5,7 +5,13 @@ A small, portable Windows tool to **set the power limit** of NVIDIA GPUs and **m
 It was made for data-center cards like the **Tesla V100, T4 or P4**, where tools such as MSI Afterburner don't work, but it runs with any NVIDIA GPU that `nvidia-smi` supports (GeForce, Quadro, Tesla).
 
 <!-- Add your own screenshots to docs/ and they will show up here -->
-![GPUTool – Graph tab](docs/screenshot-graph.png)
+![GPUTool – Graph tab](docs/screenshot-graph.png) 
+<p align="left">
+  <img src="docs/screenshot-settings.png" alt="Settings tab" width="20%">
+  <img src="docs/screenshot-graph.png" alt="Graph tab" width="20%">
+   <img src="docs/screenshot-logging.png" alt="log tab" width="20%">
+  <img src="docs/screenshot-compact2.png" alt="Compact graph view" width="8%">
+</p>
 
 ## Features
 
