@@ -1,0 +1,10 @@
+# build output
+bin/
+obj/
+*.exe
+*.pdb
+
+# runtime files
+*.log
+GPUTool_data.txt
+GPUTool.ini
